@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "youvegotmail",
+  "version": "${version}",
+
+  "name": "You've Got Mail!",
+  "description": "Adds mail notifications to Mighty Mail",
+  "authors": [
+    {
+      "name": "Matt Ware",
+      "contact": {
+        "homepage": "https://mattware.dev/"
+      }
+    }
+  ],
+  "contact": {
+
+  },
+
+  "license": "MIT",
+  "icon": "assets/youvegotmail/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.mattware.youvegotmail.fabric.YouveGotMailFabric"
+    ]
+  },
+  "mixins": [
+    "youvegotmail.mixins.json",
+    "youvegotmail-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.10",
+    "minecraft": ">=1.20.1",
+    "mighty-mail": ">=1.0.14"
+  }
+}

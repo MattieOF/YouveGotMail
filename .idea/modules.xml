@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/YouveGotMail.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/YouveGotMail.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/YouveGotMail.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/YouveGotMail.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/YouveGotMail.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/YouveGotMail.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/YouveGotMail.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/YouveGotMail.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/YouveGotMail.forge.test.iml" />
+    </modules>
+  </component>
+</project>
